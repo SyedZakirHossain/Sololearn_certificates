@@ -22,5 +22,21 @@ The community is huge, helping each other by sharing experiences.
 
 
 
-Thanks and gratitude to Sololearn family.
+Thanks and 
 ![js](https://user-images.githubusercontent.com/63798914/231838393-8785da0b-7728-43cb-81bf-2ee1799b1814.png)
+
+
+
+
+gratitude to 
+
+
+
+![php](https://user-images.githubusercontent.com/63798914/231840768-23398332-f98b-431e-b43d-172e6c2d9aba.png)
+
+Sololearn family.
+
+
+
+![jq](https://user-images.githubusercontent.com/63798914/231840834-09ba2844-a244-47a2-8492-e1012c516e3c.png)
+
